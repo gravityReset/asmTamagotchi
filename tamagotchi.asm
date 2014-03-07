@@ -1,4 +1,4 @@
-include 'emu8086.inc' #biblioteque de emu8086
+include 'emu8086.inc' ;biblioteque de emu8086
 
 org  100h     
      
